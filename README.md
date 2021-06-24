@@ -1,4 +1,4 @@
-[![Header](https://github.com/MrAfitol/mrafitol/blob/main/assets/logo.png)](https://www.youtube.com/channel/UC-8PllPkjOrFCX-_zDriTJQ)
+[![Header](https://github.com/MrAfitol/mrafitol/blob/main/assets/logo.png)](https://www.youtube.com/channel/UCcRma57L2cZVRDthIHmK74w)
 ### Hi there 👋
 ### Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
