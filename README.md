@@ -1,7 +1,7 @@
 ![Header](https://github.com/MrAfitol/mrafitol/blob/main/assets/logo_1.png)
-## $\textcolor{#f9f5cc}{\textsf{Hi there}}$ 👋
+## Hi there 👋
 I mainly develop and modify games 🎮. I develop games on the Unity platform, I also practice other areas of programming, for example, the development of Discord and Telegram bots 🤖.
-## $\textcolor{#f9f5cc}{\textsf{Languages and Tools:}}$
+## Languages and Tools
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
