@@ -1,6 +1,6 @@
 ![Header](https://github.com/MrAfitol/mrafitol/blob/main/assets/logo_1.png)
 ## Hi there 👋
-I am a game developer with a focus on creating and modifying games. I also have experience in developing Discord and Telegram bots, constantly expanding my skills and exploring new areas of programming.
+I'm a developer with a specialization in creating and modifying games. I also have experience in developing Discord and Telegram bots, consistently enhancing my skills and exploring new programming domains.
 ## Languages and Tools
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
