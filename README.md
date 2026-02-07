@@ -11,6 +11,3 @@ I'm a developer specializing in game development and modding. I'm always looking
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity&logoColor=#E54C21)
 ![Blender](https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=Blender&logoColor=#E54C21)
 ![VSStudio](https://img.shields.io/badge/-visualstudio-090909?style=for-the-badge&logo=visualstudio&logoColor=#E54C21)
-____
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAfitol&show_icons=true&text_color=e4cf00&icon_color=e4cf00&title_color=e4cf00&bg_color=060961&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAfitol&show_icons=true&text_color=e4cf00&icon_color=e4cf00&title_color=e4cf00&bg_color=060961&rank_icon=github)
